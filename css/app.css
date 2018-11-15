@@ -90,6 +90,13 @@ h4{
     font-size: 33px;
     pointer-events: none;
   }
+
+    .match {
+    -webkit-transform-origin: top center;
+     transform-origin: top center;
+    -webkit-animation-name: swing;
+     animation-name: swing;
+  }
   
   /*Styles for the Score Panel*/
   
