@@ -18,4 +18,11 @@ above 28 moves means you get one star
 
 Its capital fun!!! to realise your memory is indeed sharp
 
+# Game Attribute
+
+This game has built in of
+HTML, JAVASCRIPT, CSS, Bootstrap...
+more improvements will be added poco a poco
+
+
 # License: MIT Licensed
