@@ -120,13 +120,12 @@ function endgame() {
 }
 
 
-
 const movesContainer = document.querySelector(".moves");
 //add move
 let moves = 0;
 movesContainer.innerHTML = 0;
 
-function addMove() {
+let update_moves = function addMove() {
     moves++;
     movesContainer.innerHTML = moves;
     rater();
